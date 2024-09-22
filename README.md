@@ -1,4 +1,4 @@
-# Project of a AWS Lambda with API Gateway, and DynamoDB
+# Project of a AWS Lambda with API Gateway, and DynamoDB. Made with Terraform
 
 This project sets up an Java 21 AWS Lambda function using Spring Boot 3, which is triggered by an API Gateway and interacts with a DynamoDB table to manage user data. The DynamoDB table stores user data with fields `uuid`, `email`, and `created_at`.
 
